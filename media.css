@@ -34,6 +34,7 @@
         margin-bottom: 15px;
     }
     .content p {
+        display: none;
         margin-bottom: 20px;
     }
     /* hero end */
