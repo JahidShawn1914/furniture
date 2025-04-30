@@ -5,6 +5,9 @@
         font-size: 14px;
         font-weight: 400;
     }
+    .buy-btn{
+        padding: 8px 15px;
+    }
      /* navbar start */
      .navbar {
         padding: 20px 20px;
@@ -25,13 +28,13 @@
     }
     .content small {
         font-size: 14px;
-        margin-bottom: 10px;
+        margin-bottom: 20px;
     }
     .content h1 {
-        font-size: 32px;
+        font-size: 28px;
         font-weight: 700;
-        line-height: 40px;
-        margin-bottom: 15px;
+        line-height: 35px;
+        margin-bottom: 20px;
     }
     .content p {
         display: none;
